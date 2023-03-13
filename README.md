@@ -1,7 +1,7 @@
 The project maps a list of all locations from the following JSON file and find the three closest plantation
 projects based on distance. It also display for each mapped project the distance in kilometers. 
 
-THere is not much css as I was focusing more on the logic of vreating the react app.
+There is not much css as I was focusing more on the logic of solving the assignment.
 
 # Getting Started with Create React App
 
